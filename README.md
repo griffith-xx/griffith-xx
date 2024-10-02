@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm Chacrit Poonpipit, a passionate full-stack dev
 - **Frontend:**
   - Next.js
   - Vue 3
-  - Tailwind CSS
 
 - **Backend:**
   - Laravel
