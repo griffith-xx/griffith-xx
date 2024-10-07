@@ -10,7 +10,3 @@ Welcome to my GitHub profile! I'm Chacrit Poonpipit, a passionate full-stack dev
 
 - **Backend:**
   - Laravel
-
-test
-test
-test
